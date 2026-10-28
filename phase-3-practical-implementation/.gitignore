@@ -1,0 +1,15 @@
+# Compiled Java files
+out/
+*.class
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Downloaded MySQL connector
+lib/mysql-connector-j-26.7.0/
